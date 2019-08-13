@@ -1,7 +1,7 @@
 # EmojiIowa
 
 
-Emoji Iowa is a simple twitter bot hosted using [Google App Scripts to](https://developers.google.com/apps-script/) that uses openweathermaps api and the twitter api to automatically tweet a weather map of Iowa at the current time. The bot lives on Twitter [@EmojiIowa](https://twitter.com/EmojiIowa)
+Emoji Iowa is a simple twitter bot hosted using [Google App Scripts](https://developers.google.com/apps-script/) that uses openweathermaps api and the twitter api to automatically tweet a weather map of Iowa at the current time. The bot lives on Twitter [@EmojiIowa](https://twitter.com/EmojiIowa)
 
 ### The Tweets
 The tweets often look something like this
