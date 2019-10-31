@@ -27,6 +27,26 @@ function IconData(){
 return iconData;
 }
 
+return iconData;
+}
+
+  function IconTemp(){
+    var tempIcons = {
+      "100":"⚫",            //>100f 
+      "86":"🔴",            //>86
+      "72":"🟠",             //>72
+      "60":"🟡",             //>60
+      "50":"🟢",             //>50
+      "32":"🔵",            //>32
+      "10":"🟣",             //>10
+      "0":"⚪"              //< 0
+  }
+    Logger.log(tempIcons)
+    return tempIcons
+ }
+
+
+
 function CoordPairs(){
 var coordPairs =[
   {"lat":"43.5008","lon":"-96.6357"},
